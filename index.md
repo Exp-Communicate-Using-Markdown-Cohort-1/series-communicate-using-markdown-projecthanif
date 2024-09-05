@@ -6,3 +6,8 @@
 ```php artisan serve```
 ###### to create a new controller
 ```php artisan make:controller name_of_controller```
+
+#### Task 
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
